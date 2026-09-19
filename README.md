@@ -29,7 +29,7 @@ First, a sheet of paper is folded in half to create the greeting card. A panda-t
 
 The LED circuit operates using a battery as the power source. A magnetic switch controls the flow of current to the LED. When the card is opened, the switch activates the LED, and when the card is closed, the circuit is disconnected, turning off the LED.
 
-![RESULT.jpg](WORKING
+![RESULT.jpg](WORKING.jpg)
 
 ### **6\. Notes**
 
