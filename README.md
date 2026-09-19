@@ -47,6 +47,6 @@ The handmade greeting card successfully combines art, craft, and basic electroni
 
 **HAND MADE GREETING CARD**
 
-**![][image2]**
+![RESULT.jpg](RESULT.jpg)
 
-[image1]: 
+
